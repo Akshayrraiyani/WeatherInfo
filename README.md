@@ -87,3 +87,10 @@ states like `Success`, `Error`.
 - **Unit Tests**: MockK is used for mocking dependencies and testing business logic. The testing
   framework also includes JUnit and Turbine for flow testing.
 
+## :camera_flash: Screenshots
+![Screenshot_1734980767](https://github.com/user-attachments/assets/b888786e-8e5c-4329-a4d9-9086f7d1fc53)
+![Screenshot_1734980779](https://github.com/user-attachments/assets/e1be5554-ef82-430d-b2b0-e082d6791ff2)
+
+## :camera_flash: Preview
+[WeatherInfo.webm](https://github.com/user-attachments/assets/5215cb4e-c5a4-41fd-9939-80ea9caa862e)
+
