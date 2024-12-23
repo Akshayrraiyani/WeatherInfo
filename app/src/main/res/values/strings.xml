@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+    <string name="lab_no_city_selected">No City Selected</string>
+    <string name="lab_please_search_for_a_city">Please Search For A City</string>
+    <string name="icon_url">https:%1$s</string>
+    <string name="lab_weather_icon">Weather Icon</string>
+    <string name="temp_celsius">%1$s°</string>
+    <string name="lab_humidity">Humidity</string>
+    <string name="lab_uv">UV</string>
+    <string name="lab_feels_like">Feels Like</string>
+    <string name="humidity_value">%1$s\%%</string>
+    <string name="lab_search_location">Search Location</string>
+    <string name="lab_please_enter_location">Please Enter Location</string>
+    <string name="lab_search">Search</string>
+</resources>
